@@ -10,7 +10,7 @@
     <title>{title}</title>
 </svelte:head>
 
-<h1>{title} - Svelte App</h1>
+<h1>{title} - Svelte</h1>
 
 <form action="" method="">
     <input type="text" name="text" aria-label="Add a todo" placeholder="+ type to add a todo">
